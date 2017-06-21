@@ -1,0 +1,7 @@
+host = smtp.live.com
+port = 587
+mailFrom = test@bugdetection.com
+password = 123456
+mailTo = reportTest@bugdetection.com
+subject = Bug Report in the attachment.
+message = I have some attachments for you.
